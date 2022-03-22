@@ -1,0 +1,24 @@
+.heading{
+    font-size: xx-large;
+    width: 80%;
+    height: 10%;
+    background-color: black;
+    font-family: 'Rampart One', cursive;
+}
+body{
+    background-color: aqua;
+    font-family: 'Pacifico', cursive;
+
+}
+.name_of_objects{
+font-size: 25px;
+}
+.image,#label1{
+    font-size: 20px;
+
+}
+#camera{
+    width: 350px;
+    height:300px ;
+    border: 2px dashed black;
+}
